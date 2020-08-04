@@ -9,6 +9,7 @@ I'm **Dylan Meivis**, from Amsterdam, The Netherlands.
 -   ⚡ Fun fact: Big Fan of Rick and Morty
 -   🎯 Next Target: React-Native
 
+<br />
 ---
 
 <img align='right' src='https://octodex.github.com/images/daftpunktocat-thomas.gif' width='200"'>
