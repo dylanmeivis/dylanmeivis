@@ -7,7 +7,7 @@ I'm **Dylan Meivis**, from Amsterdam, The Netherlands.
 -   🔭 Currently working on **A Payment Platform at Serrala**
 -   🌱 Currently learning **React and Docker**
 -   ⚡ Fun fact: Big Fan of Rick and Morty
--   🎯 Next Target: React-Native
+-   🎯 Next Target: Flutter
 
 <br />
 
