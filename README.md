@@ -1,4 +1,4 @@
-# Hi, I'm Dylan 👋👨🏽‍💻
+# Hi, I'm Dylan 👋🏼👨🏽‍💻
 
 I'm a young software engineer from the Netherlands who is passionate about creating good looking and user friendly applications, and helping people / the community. Some technologies I enjoy working with include ReactJS, Angular, .NET/Core, Docker and Javascript. I am a former fanatic baseball player where from I took my mentality and try to put that into my engineering skills.
 
