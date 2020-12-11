@@ -1,6 +1,6 @@
 # Hi, I'm Dylan 👋🏼👨🏽‍💻
 
-I'm a young software engineer from the Netherlands who is passionate about creating good looking, user friendly applications. Some technologies I enjoy working with are ReactJS, Angular, .NET/Core, Docker and Javascript.
+I'm a young software engineer from the Netherlands who is passionate about creating good looking and user friendly applications. Some technologies I enjoy working with are ReactJS, Angular, .NET/Core, Docker and Flutter.
 
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/dylanmeivis/dylanmeivis/master/Images/my-octocat.gif?raw=true"></a>
