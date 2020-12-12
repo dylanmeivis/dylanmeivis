@@ -1,7 +1,18 @@
 # Hi, I'm Dylan 👋🏼👨🏽‍💻
 
-I'm a young software engineer from the Netherlands who is passionate about creating good looking and user friendly applications. Some technologies I enjoy working with are ReactJS, Angular, .NET/Core, Docker and Flutter.
-
+### Tools & Technology:
+```yaml
+{
+  "frontend": {
+    "framework/library": "react.js, Angular",
+    "ui": ["bulma", "bootstrap", "html", "css", "sass", "javascript"]
+  },
+  "backend": ["Node.js", ".NET", ".NET Core"],    //mostly node/express
+  "database": ["Mongodb", "MSSQL", "CosmosDB"],         // mostly mongodb
+  "ide": ["Visual Studio Code", "Visual Studio"],                     
+  "others": ["Azure", "Docker"]
+}
+```
 
 ## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://raw.githubusercontent.com/dylanmeivis/dylanmeivis/master/Images/my-octocat.gif?raw=true"></a>
 - Reach out to me on <a href="https://www.twitter.com/dylanmeivis">Twitter</a> 🐤 or <a href="https://www.instagram.com/dylanmeivis">Instagram</a> 📷
