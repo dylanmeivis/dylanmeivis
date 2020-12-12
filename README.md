@@ -7,10 +7,10 @@
     "Framework/Library": "React.js, Angular",
     "UI": ["Bulma", "Bootstrap", "HTML", "CSS", "SASS", "Javascript"]
   },
-  "backend": ["Node.js", ".NET", ".NET Core"],
-  "database": ["Mongodb", "MSSQL", "CosmosDB"],
-  "ide": ["Visual Studio Code", "Visual Studio"],                     
-  "others": ["Azure", "Docker"]
+  "Backend": ["Node.js", ".NET", ".NET Core"],
+  "Database": ["Mongodb", "MSSQL", "CosmosDB"],
+  "IDE": ["Visual Studio Code", "Visual Studio"],                     
+  "Others": ["Azure", "Docker"]
 }
 ```
 
