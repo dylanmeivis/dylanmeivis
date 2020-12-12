@@ -3,9 +3,9 @@
 ### Tools & Technology:
 ```yaml
 {
-  "frontend": {
-    "framework/library": "react.js, Angular",
-    "ui": ["bulma", "bootstrap", "html", "css", "sass", "javascript"]
+  "Frontend": {
+    "Framework/Library": "React.js, Angular",
+    "UI": ["Bulma", "Bootstrap", "HTML", "CSS", "SASS", "Javascript"]
   },
   "backend": ["Node.js", ".NET", ".NET Core"],
   "database": ["Mongodb", "MSSQL", "CosmosDB"],
