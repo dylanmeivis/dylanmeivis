@@ -7,8 +7,8 @@
     "framework/library": "react.js, Angular",
     "ui": ["bulma", "bootstrap", "html", "css", "sass", "javascript"]
   },
-  "backend": ["Node.js", ".NET", ".NET Core"],    //mostly node/express
-  "database": ["Mongodb", "MSSQL", "CosmosDB"],         // mostly mongodb
+  "backend": ["Node.js", ".NET", ".NET Core"],
+  "database": ["Mongodb", "MSSQL", "CosmosDB"],
   "ide": ["Visual Studio Code", "Visual Studio"],                     
   "others": ["Azure", "Docker"]
 }
