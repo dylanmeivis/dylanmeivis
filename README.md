@@ -5,7 +5,7 @@
 {
   "Frontend": {
     "Framework/Library": "React.js, Angular",
-    "UI": ["Bulma", "Bootstrap", "HTML", "CSS", "SASS", "Javascript"]
+    "UI": ["Bulma", "Bootstrap", "HTML", "CSS", "Sass", "Javascript"]
   },
   "Backend": ["Node.js", ".NET", ".NET Core"],
   "Database": ["Mongodb", "MSSQL", "CosmosDB"],
