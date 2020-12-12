@@ -5,14 +5,14 @@ I'm a young full-stack developer from the Netherlands who is passionate about cr
 ### Tools & Technology:
 ```yaml
 {
-  "Frontend": {
-    "Framework/Library": "React.js, Angular",
-    "UI": ["Bulma", "Bootstrap", "HTML", "CSS", "Sass", "Javascript"]
+  "frontend": {
+    "framework/library": "react.js, angular",
+    "ui": ["bulma", "bootstrap", "html", "css", "sass", "javascript"]
   },
-  "Backend": ["Node.js", ".NET", ".NET Core"],
-  "Database": ["Mongodb", "MSSQL", "CosmosDB"],
-  "IDE": ["Visual Studio Code", "Visual Studio"],                     
-  "Others": ["Azure", "Docker"]
+  "backend": ["node.js", ".net", ".net core"],
+  "database": ["mongodb", "mssql", "cosmosdb"],
+  "ide": ["visual studio code", "visual studio"],                     
+  "others": ["azure", "docker", "devops", "ci/cd"]
 }
 ```
 
