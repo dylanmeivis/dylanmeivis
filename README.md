@@ -6,7 +6,7 @@ I'm a young full-stack developer from the Netherlands who is passionate about cr
 ```yaml
 {
   "frontend": {
-    "framework/library": "react.js, angular",
+    "framework/library": "react, angular",
     "ui": ["tailwindcss", "bootstrap", "html", "css", "javascript"]
   },
   "backend": ["node.js", ".net", ".net core"],
