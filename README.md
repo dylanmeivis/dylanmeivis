@@ -7,7 +7,7 @@ I'm a young full-stack developer from the Netherlands who is passionate about cr
 {
   "frontend": {
     "framework/library": "react.js, angular",
-    "ui": ["bulma", "bootstrap", "html", "css", "sass", "javascript"]
+    "ui": ["tailwindcss", "bootstrap", "html", "css", "javascript"]
   },
   "backend": ["node.js", ".net", ".net core"],
   "database": ["mongodb", "mssql", "cosmosdb"],
