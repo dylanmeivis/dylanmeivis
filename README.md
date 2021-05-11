@@ -1,6 +1,6 @@
 # Hi, I'm Dylan 👋🏼👨🏽‍💻
 
-I'm a young full-stack developer from the Netherlands who is passionate about creating good looking and user friendly applications.
+I'm a young full-stack developer from the Netherlands who is passionate about creating good looking, cloud native and user friendly applications.
 
 ### Tools & Technology:
 ```yaml
