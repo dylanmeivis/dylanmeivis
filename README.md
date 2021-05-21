@@ -1,4 +1,4 @@
-# Hi, I'm Dylan 👋🏼👨🏽‍💻
+# Hi there 👋🏼
 
 I'm a full-stack developer from the Netherlands who is passionate about creating good looking, cloud native and user friendly applications.
 
