@@ -2,20 +2,6 @@
 
 I'm a full-stack developer from the Netherlands who is passionate about creating good looking, cloud native and user friendly applications.
 
-### Tools & Technology:
-```yaml
-{
-  "frontend": {
-    "framework/library": "react, angular",
-    "ui": ["tailwindcss", "bootstrap", "html", "css", "javascript"]
-  },
-  "backend": ["node.js", ".net", ".net core"],
-  "database": ["mongodb", "mssql", "cosmosdb"],
-  "ide": ["visual studio code", "visual studio"],                     
-  "others": ["azure", "docker", "devops", "ci/cd"]
-}
-```
-
 ### Projects
 In the overview below you will find my most recent projects:
 
