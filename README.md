@@ -23,6 +23,7 @@ In the overview below you will find my most recent projects:
 
 **Type Arcade** \
 An online arcade to practice your typing craft. ⌨️ \
+
 Languages & Technologies: `Javascript`, `React`, `C#`, `.NET`, `Azure`, `MongoDB` \
 <br/>
 
