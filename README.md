@@ -11,7 +11,6 @@ In the overview below you will find my most recent projects:
 An online arcade to practice your typing craft. ⌨️ \
 Languages & Technologies: `Javascript`, `React`, `C#`, `.NET`, `Azure`, `MongoDB` \
 <br/>
-<br/>
 
 ## Find me around the web 🌎
 - Reach out to me on <a href="https://www.twitter.com/dylanmeivis">Twitter</a> 🐤 or <a href="https://www.instagram.com/dylanmeivis">Instagram</a> 📷
