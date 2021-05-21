@@ -1,6 +1,6 @@
 # Hi there 👋🏼
 
-I'm a full-stack developer from the Netherlands who is passionate about creating good looking, cloud native and user friendly applications.
+I'm a full-stack developer from the Netherlands who is passionate about creating responsive and cloud native applications.
 
 ### Projects
 In the overview below you will find my most recent projects:
