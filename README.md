@@ -12,6 +12,8 @@ An online arcade to practice your typing craft. ⌨️ \
 Languages & Technologies: `Javascript`, `React`, `C#`, `.NET`, `Azure`, `MongoDB` \
 <br/> -->
 
+<!-- comment to commit -->
+
 ### Find me around the web 🌎
 - Reach out to me on <a href="https://www.twitter.com/dylanmeivis">Twitter</a> 🐤 or <a href="https://www.instagram.com/dylanmeivis">Instagram</a> 📷
 - My personal website <a href="https://dylanmeivis.com"> dylanmeivis.com</a> 🙋🏽‍♂️ ( under construction 🏗️)
